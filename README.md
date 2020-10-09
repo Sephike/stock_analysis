@@ -1,8 +1,8 @@
 # stock_analysis
 ---
 ## The analysis in this project is to find important information in the stock market, there are year sheets and we need to analyze the stocks in the year the user specified to find things like total daily volume, and the return percentage. It is important to set the VBA code up in the way that we do so if any new information is added to the excel sheet it can be accessed and analyzed.
----
-###In the challenge we went through the already done code is pretty good but can be better, one of the ways to make it better is to make it easily adjustable to more stocks and displaying the data in a very nice and readable fashion. In the challenge there was only the need to account for 12 stocks however it would not be hard to adjust the program to be able to have as many stocks as there are in the stock market.
+
+In the challenge we went through the already done code is pretty good but can be better, one of the ways to make it better is to make it easily adjustable to more stocks and displaying the data in a very nice and readable fashion. In the challenge there was only the need to account for 12 stocks however it would not be hard to adjust the program to be able to have as many stocks as there are in the stock market.
 ---
 ![VBA Challenge for 2017](Resources/VBA_Challenge_2017.png)
 ---
